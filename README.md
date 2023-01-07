@@ -1,5 +1,6 @@
-# Machine_Learning_Algorithms_from_Scratch
+Linear Regression
 
-Linear Regression \n
-    - 01 Simple Linear Regression from scratch
-    - 02 Linear Regression Assumptions
+    01 - Simple Linear Regression 
+        (Creating our LR Class and comparing with Scikitlearn)
+    02 - Linear Regression Assumptions
+    03 - Regression Metrics
